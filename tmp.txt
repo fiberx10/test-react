@@ -1,0 +1,3 @@
+# one vote for each user 
+# voting will end at a x time
+  
